@@ -1,2 +1,2 @@
 # my_first
-Python project
+Python project for testing purpose.
